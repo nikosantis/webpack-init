@@ -86,6 +86,12 @@ Para instalarlo:
 
 Y vamos a crear otro script en package.json para finalizar.
 
+    "scripts": {
+        "build": "webpack",
+        "dev": "webpack-dev-server",
+        "test": "echo \"Error: no test specified\" && exit 1"
+      },
+
 Para probarlo se corre el comando:
 
 `npm run dev`
