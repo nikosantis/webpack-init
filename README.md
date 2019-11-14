@@ -68,6 +68,8 @@ Y le agregaremos este nuevo script
       },
 
 
+Luego, debemos crear en nuestra carpeta /src el archivo index.html. Usar "emmet" con "!" más rápido y poner un título y algún elemento HTML como un <h1> para testear.
+
 Para probar este script vamos a la terminal:
 
 `npm run build`
